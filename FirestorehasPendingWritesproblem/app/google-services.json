@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796039581743",
+    "firebase_url": "https://firestore-haspendingwrites.firebaseio.com",
+    "project_id": "firestore-haspendingwrites",
+    "storage_bucket": "firestore-haspendingwrites.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796039581743:android:ef673b9d8527fd1a4fb6da",
+        "android_client_info": {
+          "package_name": "android.firebase.bug.firestorehaspendingwritesproblem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796039581743-6crg023kuii3cljc38e38e3qc94uvei5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ5tgi8SgO9LGtSAdfJ2g3BNs9aFopt1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796039581743-6crg023kuii3cljc38e38e3qc94uvei5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
