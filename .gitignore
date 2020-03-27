@@ -83,3 +83,12 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+.firebaserc
+.eslintrc
+firebase.json
+firestore.indexes.json
+firestore.rules
+functions/index.js
+functions/package-lock.json
+functions/package.json
+storage.rules

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342346249810",
+    "firebase_url": "https://fir-bugs-6dd25.firebaseio.com",
+    "project_id": "fir-bugs-6dd25",
+    "storage_bucket": "fir-bugs-6dd25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342346249810:android:6d541bf3b4b166790f918b",
+        "android_client_info": {
+          "package_name": "android.firebase.bug.firestoreexcludeproblem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342346249810-a7rr2c2ntdhug2p3i5ksufsl32nle3h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlNtsFHzUSTr768PDrH7nOA-QwDAniZ_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342346249810-a7rr2c2ntdhug2p3i5ksufsl32nle3h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
